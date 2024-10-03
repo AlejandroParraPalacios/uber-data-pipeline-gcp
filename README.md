@@ -4,7 +4,8 @@
 
 Este proyecto tiene como objetivo realizar análisis de datos de Uber utilizando diversas herramientas y tecnologías modernas, incluidas Google Cloud Platform (GCP), Python, BigQuery, y Looker Studio. Se construye un pipeline de datos moderno para extraer, transformar y cargar los datos, lo que permite realizar análisis avanzados y obtener insights valiosos.
 
-## Arquitectura 
+## Arquitectura
+![Architecture drawio](https://github.com/user-attachments/assets/654ed631-6abd-42b0-81a0-5251bec1f472)
 
 ## Tecnologías Utilizadas
 - **Lenguaje de Programación**:
