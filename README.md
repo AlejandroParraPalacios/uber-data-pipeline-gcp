@@ -29,3 +29,4 @@ El proyecto utiliza el **TLC Trip Record Data**. Los registros de viajes en taxi
   - [Diccionario de Datos](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
  
 ## Modelo de Datos
+![data_model](https://github.com/user-attachments/assets/850603d8-1d3f-460b-a9ed-08f14c7eb9eb)
