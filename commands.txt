@@ -1,0 +1,28 @@
+# Instalamos Python and pip 
+sudo apt-get update
+
+sudo apt-get install python3-distutils
+
+sudo apt-get install python3-apt
+
+sudo apt-get install wget
+
+wget https://bootstrap.pypa.io/get-pip.py
+
+sudo python3 get-pip.py
+
+# Creamos el entorno virtual
+python -m venv myenv-env
+
+source myenv-env/bin/activate
+
+# Instalamos Mage
+pip3 install mage-ai
+
+# Instalamos Pandas
+pip3 install pandas
+
+# Instalamos Google Cloud Library
+pip3 install google-cloud
+
+pip3 install google-cloud-bigquery
